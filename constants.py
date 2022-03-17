@@ -1,0 +1,5 @@
+class Constants:
+    IMPLICIT_TIMEOUT = 45
+    SHORT_TIMEOUT = 15
+    MEDIUM_TIMEOUT = 30
+    LONG_TIMEOUT = 60
