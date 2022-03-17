@@ -1,10 +1,6 @@
 from behave.model_core import Status
 from selenium import webdriver
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-from datetime import datetime
-import time
 import os
-import sys
 
 from constants import Constants
 from properties import Properties
